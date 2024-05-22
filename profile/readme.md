@@ -11,7 +11,7 @@ In this sub challenge teams you will receive a dataset of ±42 segmented tomato 
 On top of this you will gain experience in working with 3D data to be able to use the provided framework for your own data.  
 
 <p float="left">
-<img src="https://github.com/Phenotyping-Perception-beyond-2D-Colour/.github/profile/seg.png" width="400" height="790" \>
-<img src="https://github.com/Phenotyping-Perception-beyond-2D-Colour/.github/profile/skel.png" width="400" height="790" \>
+<img src="/profile/seg.png" width="400" height="790" \>
+<img src="/profile/skel.png" width="400" height="790" \>
 </p>
 
